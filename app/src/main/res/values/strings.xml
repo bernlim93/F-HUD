@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RL-HUD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hud_steps">Steps: </string>
+    <string name="hud_pulse">Pulse: </string>
+    <string name="hud_muscle">Muscle: </string>
+    <string name="hud_direction">Nav:</string>
+
+    <string name="weap_ionbeam">Ion Beam</string>
+    <string name="weap_rocketlauncher">Machine Gun</string>
+    <string name="weap_watergun">Water Gun</string>
+
+</resources>
